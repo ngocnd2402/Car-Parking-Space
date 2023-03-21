@@ -1,4 +1,4 @@
-# Parking-Parking-Park
+# Description
 This is a good little project to learn Computer Vision
 # Working process
 1. Use 'ParkingSpacePicker' to get the bbox of each location, then save
